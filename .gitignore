@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+venv/
+build/
+dist/
+.Trash-*/
+.Trashes
+.fseventsd
+.metadata_never_index
+.DS_Store
+Thumbs.db
+.vscode/

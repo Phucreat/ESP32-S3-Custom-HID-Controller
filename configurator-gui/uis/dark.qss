@@ -1,0 +1,28 @@
+#bg_app {
+    background-color: #000;
+}
+/*//////////MENU ĐỂ ĐỔI CÁC CHỨC NĂNG/////////////// */
+#frm_top_menu {
+    background-color: #222;
+    min-height : 40px;
+    max-height : 40px;
+}
+/*//////////MÀN HÌNH XỬ LÝ CÁC CHỨC NĂNG/////////////// */
+#frm_control_button {
+    background-color: #222;
+}
+#frm_control_display {
+    background-color: #333;
+}
+#frm_display_image {
+    background-color: #444;
+}
+#frm_display_config {
+    background-color: #444;
+}
+/*//////////Alert and connect/////////////// */
+#frm_control_state_connect {
+    background-color: #333;
+    min-height : 40px;
+    max-height : 40px;
+}
